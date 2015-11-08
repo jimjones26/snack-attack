@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F20DED6A1BEF2D60002A13D3 /* loot-attack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "loot-attack.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F20DED6A1BEF2D60002A13D3 /* Snack Attack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Snack Attack.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F20DED6D1BEF2D60002A13D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F20DED6F1BEF2D60002A13D3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F20DED721BEF2D60002A13D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		F20DED6B1BEF2D60002A13D3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F20DED6A1BEF2D60002A13D3 /* loot-attack.app */,
+				F20DED6A1BEF2D60002A13D3 /* Snack Attack.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F20DED691BEF2D60002A13D3 /* loot-attack */ = {
+		F20DED691BEF2D60002A13D3 /* Snack Attack */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F20DED7C1BEF2D60002A13D3 /* Build configuration list for PBXNativeTarget "loot-attack" */;
+			buildConfigurationList = F20DED7C1BEF2D60002A13D3 /* Build configuration list for PBXNativeTarget "Snack Attack" */;
 			buildPhases = (
 				F20DED661BEF2D60002A13D3 /* Sources */,
 				F20DED671BEF2D60002A13D3 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "loot-attack";
+			name = "Snack Attack";
 			productName = "loot-attack";
-			productReference = F20DED6A1BEF2D60002A13D3 /* loot-attack.app */;
+			productReference = F20DED6A1BEF2D60002A13D3 /* Snack Attack.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F20DED651BEF2D60002A13D3 /* Build configuration list for PBXProject "loot-attack" */;
+			buildConfigurationList = F20DED651BEF2D60002A13D3 /* Build configuration list for PBXProject "Snack Attack" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F20DED691BEF2D60002A13D3 /* loot-attack */,
+				F20DED691BEF2D60002A13D3 /* Snack Attack */,
 			);
 		};
 /* End PBXProject section */
@@ -253,7 +253,7 @@
 				INFOPLIST_FILE = "loot-attack/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jamesjones.loot-attack";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Snack Attack";
 			};
 			name = Debug;
 		};
@@ -264,14 +264,14 @@
 				INFOPLIST_FILE = "loot-attack/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jamesjones.loot-attack";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Snack Attack";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F20DED651BEF2D60002A13D3 /* Build configuration list for PBXProject "loot-attack" */ = {
+		F20DED651BEF2D60002A13D3 /* Build configuration list for PBXProject "Snack Attack" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F20DED7A1BEF2D60002A13D3 /* Debug */,
@@ -280,7 +280,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F20DED7C1BEF2D60002A13D3 /* Build configuration list for PBXNativeTarget "loot-attack" */ = {
+		F20DED7C1BEF2D60002A13D3 /* Build configuration list for PBXNativeTarget "Snack Attack" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F20DED7D1BEF2D60002A13D3 /* Debug */,
