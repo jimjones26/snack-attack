@@ -38,7 +38,7 @@
 		F20DED611BEF2D60002A13D3 = {
 			isa = PBXGroup;
 			children = (
-				F20DED6C1BEF2D60002A13D3 /* loot-attack */,
+				F20DED6C1BEF2D60002A13D3 /* snack-attack */,
 				F20DED6B1BEF2D60002A13D3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F20DED6C1BEF2D60002A13D3 /* loot-attack */ = {
+		F20DED6C1BEF2D60002A13D3 /* snack-attack */ = {
 			isa = PBXGroup;
 			children = (
 				F20DED6D1BEF2D60002A13D3 /* AppDelegate.swift */,
@@ -61,6 +61,7 @@
 				F20DED761BEF2D60002A13D3 /* LaunchScreen.storyboard */,
 				F20DED791BEF2D60002A13D3 /* Info.plist */,
 			);
+			name = "snack-attack";
 			path = "loot-attack";
 			sourceTree = "<group>";
 		};
